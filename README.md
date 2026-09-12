@@ -20,8 +20,7 @@ The main objectives of this project are to:
 
 ## Dashboard Preview
 
-![Shop Nest Sales Analytics Dashboard](screenshots/shop_nest_dashboard.png)
-
+![ShopNest Sales Analytics Dashboard](screenshot/Screenshot%202026-09-12%20032100.png)
 ## Key Dashboard Metrics
 
 The dashboard provides a high-level view of:
